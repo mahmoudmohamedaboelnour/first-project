@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+div{ background-color:yellow;
+color:blue;
+}
+</style>
+<title> the first lab </title>
+</head>
+<body>
+<div>
+<h1>about me </h1>
+<p1> my name is mahmoud mohamed aboelnour </p>
+<hr>
+<h1> my subjects this term</h1>
+<ol type =square>
+<li> electronics</li>
+<li> circuits</li>
+<li> programming</li>
+<li> math</li>
+</ol>
+<h1>my favorite hobbies</h1>
+<ul>
+<li> playing football</li>
+<li> watching movies </li>
+</ul>
+</div>
+</body>
+</html>
